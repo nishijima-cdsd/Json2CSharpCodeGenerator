@@ -38,7 +38,7 @@ namespace Xamasoft.JsonClassGenerator.WinForms
 
             this.optAttribJP          .CheckedChanged += this.OnAttributesModeCheckedChanged;
             this.optAttribJpn         .CheckedChanged += this.OnAttributesModeCheckedChanged;
-            this.optAttribNone        .CheckedChanged += this.OnAttributesModeCheckedChanged;
+            //this.optAttribNone        .CheckedChanged += this.OnAttributesModeCheckedChanged;
 
             this.optMemberFields      .CheckedChanged += this.OnMemberModeCheckedChanged;
             this.optMemberProps       .CheckedChanged += this.OnMemberModeCheckedChanged;
